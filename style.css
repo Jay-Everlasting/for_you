@@ -1,0 +1,23 @@
+* {
+  background-color: #e8dcb8;
+}
+
+p {
+  font-family: "Special Elite", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.05rem;
+  line-height: 1.1rem;
+}
+
+.container {
+  margin: 70px 10%;
+}
+
+.title {
+  font-family: "Homemade Apple", cursive;
+  font-size: 2rem;
+  margin-left: -1.7rem;
+}
+
+/* Tangerine */
+/* Alex Brush */
